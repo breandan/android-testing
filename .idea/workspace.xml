@@ -66,8 +66,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c42cbac1-521d-4924-9a59-48174057c2f8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unittesting/BasicSample/app/src/test/java/com/example/android/testing/unittesting/BasicSample/EmailValidatorTest.java" afterPath="$PROJECT_DIR$/unittesting/BasicSample/app/src/test/java/com/example/android/testing/unittesting/BasicSample/EmailValidatorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unittesting/BasicSample/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/unittesting/BasicSample/app/src/main/res/layout/activity_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="android-testing.iws" />
@@ -278,13 +277,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EmailValidatorTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/unittesting/BasicSample/app/src/test/java/com/example/android/testing/unittesting/BasicSample/EmailValidatorTest.java">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unittesting/BasicSample/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42168674">
-              <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-              <folding />
+            <state vertical-scroll-proportion="0.35828876">
+              <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
+              <folding>
+                <element signature="e#971#1006#0" expanded="true" />
+              </folding>
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -299,6 +303,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -6619,6 +6626,7 @@
         <option value="$PROJECT_DIR$/espresso/BasicSample/app/src/main/res/layout/new_app_widget.xml" />
         <option value="$PROJECT_DIR$/espresso/BasicSample/app/src/main/java/com/example/android/testing/espresso/BasicSample/MainActivity.java" />
         <option value="$PROJECT_DIR$/unittesting/BasicSample/app/src/test/java/com/example/android/testing/unittesting/BasicSample/EmailValidatorTest.java" />
+        <option value="$PROJECT_DIR$/unittesting/BasicSample/app/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
@@ -7322,6 +7330,13 @@
       <option name="number" value="Default" />
       <updated>1428540299915</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fix test.">
+      <created>1429899988168</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1429899988168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -7341,15 +7356,16 @@
       <window_info id="DSL Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3993808" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993808" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33333334" sideWeight="0.4969605" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32724506" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32724506" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.50303954" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23796791" sideWeight="0.42313546" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714137" sideWeight="0.49694657" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328877" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Mirror" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32763818" sideWeight="0.5372907" order="4" side_tool="true" content_ui="tabs" />
@@ -7360,7 +7376,6 @@
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902735" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="91" y="91" width="884" height="586" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32724506" sideWeight="0.49694657" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -7373,6 +7388,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Fix test." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix test." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -7589,6 +7609,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -7631,6 +7652,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37804878">
           <caret line="24" column="90" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -7694,6 +7716,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9268293">
           <caret line="53" column="45" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -7808,50 +7831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unittesting/BasicSample/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8759124">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;16dp&quot;" />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;16dp&quot;" />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;18dp&quot;" />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;My Settings&quot;" />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;Your name:&quot;" />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;22dp&quot;" />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;Enter your name&quot;" />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;Your date of birth:&quot;" />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;22dp&quot;" />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;Your Email address:&quot;" />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;18dp&quot;" />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;Enter your Email&quot;" />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;22dp&quot;" />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;22sp&quot;" />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;Save&quot;" />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;16dp&quot;" />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;16dp&quot;" />
-            <marker date="1428536930368" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;22sp&quot;" />
-            <marker date="1428536930368" expanded="false" signature="-1:-1" placeholder="&quot;Revert&quot;" />
-          </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unittesting/BasicSample/app/src/main/java/com/example/android/testing/unittesting/BasicSample/SharedPreferenceEntry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34423408">
@@ -7872,10 +7851,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unittesting/BasicSample/app/src/test/java/com/example/android/testing/unittesting/BasicSample/EmailValidatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42168674">
-          <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-          <folding />
+        <state vertical-scroll-proportion="0.697314">
+          <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+          <folding>
+            <marker date="1429899952486" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1429899952486" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1429899952486" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1429899952486" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1429899952486" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429899952486" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429899952486" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429899952486" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429899952486" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429899952486" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1429899952486" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittesting/BasicSample/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35828876">
+          <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
+          <folding>
+            <element signature="e#971#1006#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
   </component>
