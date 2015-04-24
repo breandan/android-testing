@@ -69,7 +69,6 @@ public class EmailValidatorTest {
     @Test
     public void emailValidator_InvalidEmailNoUsername_ReturnsFalse() {
         assertFalse(EmailValidator.isValidEmail(EMAIL_PATTERN, "@email.com"));
-        fail();
     }
 
     @Test
