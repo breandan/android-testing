@@ -51,6 +51,10 @@ public class CalculatorActivity extends Activity {
         mResultTextView = (TextView) findViewById(R.id.operation_result_text_view);
         mOperandOneEditText = (EditText) findViewById(R.id.operand_one_edit_text);
         mOperandTwoEditText = (EditText) findViewById(R.id.operand_two_edit_text);
+
+        if (mOperandOneEditText == null) {
+            Log.e("CalculatorActivity", "EditText view shouldn't be null");
+        }
     }
 
     /**

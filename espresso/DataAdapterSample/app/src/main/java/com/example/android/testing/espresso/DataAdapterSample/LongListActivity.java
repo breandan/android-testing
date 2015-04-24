@@ -108,7 +108,13 @@ public class LongListActivity extends Activity {
                 }
             });
 
+            if (convertView == null) {
+
+            }
+
             return super.getView(position, convertView, parent);
         }
+
+
     }
 }

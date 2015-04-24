@@ -24,6 +24,7 @@ import java.util.regex.Pattern;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.fail;
 
 
 /**
@@ -68,6 +69,7 @@ public class EmailValidatorTest {
     @Test
     public void emailValidator_InvalidEmailNoUsername_ReturnsFalse() {
         assertFalse(EmailValidator.isValidEmail(EMAIL_PATTERN, "@email.com"));
+        fail();
     }
 
     @Test

@@ -18,10 +18,17 @@ package com.example.android.testing.espresso.BasicSample;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import java.io.File;
+import java.security.interfaces.DSAParams;
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.util.logging.FileHandler;
 
 /**
  * An {@link Activity} that gets a text string from the user and displays it back when the user
@@ -45,6 +52,16 @@ public class MainActivity extends Activity implements View.OnClickListener {
         findViewById(R.id.changeTextBt).setOnClickListener(this);
         findViewById(R.id.activityChangeTextBtn).setOnClickListener(this);
 
+        new AsyncTask<Void, Void, Void>() {
+
+            @Override
+            protected Void doInBackground(Void... params) {
+                return null;
+            }
+        };
+
+
+
         mTextView = (TextView) findViewById(R.id.textToBeChanged);
         mEditText = (EditText) findViewById(R.id.editTextUserInput);
     }
@@ -53,7 +70,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
     public void onClick(View view) {
         // Get the text from the EditText view.
         final String text = mEditText.getText().toString();
-
         switch (view.getId()) {
             case R.id.changeTextBt:
                 // First button's interaction: set a text in a text view.

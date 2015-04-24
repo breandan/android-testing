@@ -42,11 +42,25 @@ public class MainActivity extends Activity implements View.OnClickListener {
         setContentView(R.layout.activity_main);
 
         // Set the listeners for the buttons.
-        findViewById(R.id.changeTextBt).setOnClickListener(this);
-        findViewById(R.id.activityChangeTextBtn).setOnClickListener(this);
+        myNewMethod();
+
+        main(new String[0], newMethodReturnString(2));
+
 
         mTextView = (TextView) findViewById(R.id.textToBeChanged);
         mEditText = (EditText) findViewById(R.id.editTextUserInput);
+    }
+
+    private String newMethodReturnString(int i) {
+        return null;
+    }
+
+    private void myNewMethod() {
+        findViewById(R.id.changeTextBt).setOnClickListener(this);
+        findViewById(R.id.activityChangeTextBtn).setOnClickListener(this);
+    }
+
+    public static void main(String[] args, String p) {
     }
 
     @Override
