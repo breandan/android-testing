@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/testrunner/AndroidJunitRunnerSample/AndroidJunitRunnerSample.iml" filepath="$PROJECT_DIR$/testrunner/AndroidJunitRunnerSample/AndroidJunitRunnerSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testrunner/AndroidJunitRunnerSample/app/AndroidJunitRunnerSample-app.iml" filepath="$PROJECT_DIR$/testrunner/AndroidJunitRunnerSample/app/AndroidJunitRunnerSample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espresso/BasicSample/BasicSample.iml" filepath="$PROJECT_DIR$/espresso/BasicSample/BasicSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uiautomator/BasicSample/app/BasicSample-app.iml" filepath="$PROJECT_DIR$/uiautomator/BasicSample/app/BasicSample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unittesting/BasicUnitAndroidTest/BasicUnitAndroidTest.iml" filepath="$PROJECT_DIR$/unittesting/BasicUnitAndroidTest/BasicUnitAndroidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unittesting/BasicUnitAndroidTest/app/BasicUnitAndroidTest-app.iml" filepath="$PROJECT_DIR$/unittesting/BasicUnitAndroidTest/app/BasicUnitAndroidTest-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espresso/CustomMatcherSample/CustomMatcherSample.iml" filepath="$PROJECT_DIR$/espresso/CustomMatcherSample/CustomMatcherSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espresso/CustomMatcherSample/app/CustomMatcherSample-app.iml" filepath="$PROJECT_DIR$/espresso/CustomMatcherSample/app/CustomMatcherSample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espresso/DataAdapterSample/DataAdapterSample.iml" filepath="$PROJECT_DIR$/espresso/DataAdapterSample/DataAdapterSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espresso/DataAdapterSample/app/DataAdapterSample-app.iml" filepath="$PROJECT_DIR$/espresso/DataAdapterSample/app/DataAdapterSample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espresso/MultiWindowSample/MultiWindowSample.iml" filepath="$PROJECT_DIR$/espresso/MultiWindowSample/MultiWindowSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espresso/MultiWindowSample/app/MultiWindowSample-app.iml" filepath="$PROJECT_DIR$/espresso/MultiWindowSample/app/MultiWindowSample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-testing.iml" filepath="$PROJECT_DIR$/android-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espresso/BasicSample/app/app.iml" filepath="$PROJECT_DIR$/espresso/BasicSample/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espresso/espresso.iml" filepath="$PROJECT_DIR$/espresso/espresso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testrunner/testrunner.iml" filepath="$PROJECT_DIR$/testrunner/testrunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uiautomator/uiautomator.iml" filepath="$PROJECT_DIR$/uiautomator/uiautomator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uiautomator/BasicSample/uiautomator-BasicSample.iml" filepath="$PROJECT_DIR$/uiautomator/BasicSample/uiautomator-BasicSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unittesting/unittesting.iml" filepath="$PROJECT_DIR$/unittesting/unittesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unittesting/BasicSample/unittesting-BasicSample.iml" filepath="$PROJECT_DIR$/unittesting/BasicSample/unittesting-BasicSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unittesting/BasicSample/app/unittesting-BasicSample-app.iml" filepath="$PROJECT_DIR$/unittesting/BasicSample/app/unittesting-BasicSample-app.iml" />
+    </modules>
+  </component>
+</project>

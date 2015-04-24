@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/espresso" />
+            <option value="$PROJECT_DIR$/espresso/BasicSample" />
+            <option value="$PROJECT_DIR$/espresso/BasicSample/app" />
+            <option value="$PROJECT_DIR$/espresso/CustomMatcherSample" />
+            <option value="$PROJECT_DIR$/espresso/CustomMatcherSample/app" />
+            <option value="$PROJECT_DIR$/espresso/DataAdapterSample" />
+            <option value="$PROJECT_DIR$/espresso/DataAdapterSample/app" />
+            <option value="$PROJECT_DIR$/espresso/MultiWindowSample" />
+            <option value="$PROJECT_DIR$/espresso/MultiWindowSample/app" />
+            <option value="$PROJECT_DIR$/testrunner" />
+            <option value="$PROJECT_DIR$/testrunner/AndroidJunitRunnerSample" />
+            <option value="$PROJECT_DIR$/testrunner/AndroidJunitRunnerSample/app" />
+            <option value="$PROJECT_DIR$/uiautomator" />
+            <option value="$PROJECT_DIR$/uiautomator/BasicSample" />
+            <option value="$PROJECT_DIR$/uiautomator/BasicSample/app" />
+            <option value="$PROJECT_DIR$/unittesting" />
+            <option value="$PROJECT_DIR$/unittesting/BasicSample" />
+            <option value="$PROJECT_DIR$/unittesting/BasicSample/app" />
+            <option value="$PROJECT_DIR$/unittesting/BasicUnitAndroidTest" />
+            <option value="$PROJECT_DIR$/unittesting/BasicUnitAndroidTest/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
